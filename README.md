@@ -31,7 +31,6 @@
 </code>
 
 <!-- http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Aiman-Jannat}&theme={vue}&exclude={exclude=react,javaScript,html,css} -->
-[![Your GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username="Aiman-Jannat")]
 
 
 
