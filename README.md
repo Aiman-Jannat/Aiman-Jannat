@@ -9,8 +9,8 @@
 ## 👀 Some information about me
 
 - 🔭 I’m currently a student of CSE at Comilla University.
-- 🌱 I’m currently learning full stack web development.
-- 🤔 I’m looking for a MERN stact job.
+- 🌱 I’m currently learning express.js, node.js.
+- 🤔 I’m looking for a MERN stack job.
 
 
 
@@ -30,10 +30,10 @@
 </p>
 </code>
 
+<!-- http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Aiman-Jannat}&theme={vue}&exclude={exclude=react,javaScript,html,css} -->
+[![Your GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username="Aiman-Jannat")]
 
-<p>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Aiman-Jannat}">
-</p>
+
 
 
 ## 📈Current States
