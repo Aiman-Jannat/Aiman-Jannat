@@ -5,13 +5,10 @@
 
 
 
+### Some information about me
 
+- 🔭 I’m currently a student of CSE at Comilla University.
+- 🌱 I’m currently learning full stack web development.
+- 🤔 I’m looking for help with a job.
 
-- 🔭 I’m currently working on Full Stack developing
-- 🌱 I’m currently learning Back-end of web application
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with some languages
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: Love to explore new technologies.
 -->
