@@ -1,6 +1,6 @@
 
 
-[![The San Juan Mountains are beautiful!](/assets/banner.jpg "San Juan Mountains")](https://ibb.co/BwvsNFB)
+[![The San Juan Mountains are beautiful!](/assets/banner.jpg "San Juan Mountains")](https://ibb.co/yhkC7qk)
 
 
 
