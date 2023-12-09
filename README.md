@@ -1,7 +1,7 @@
 
-<code>
-[![The San Juan Mountains are beautiful!](/assets/398245008_889127812776767_2265236794397316543_n.jpg "San Juan Mountains")](https://ibb.co/BwvsNFB)
-</code>
+
+[![The San Juan Mountains are beautiful!](/assets/banner.jpg "San Juan Mountains")](https://ibb.co/BwvsNFB)
+
 
 
 
